@@ -1,0 +1,28 @@
+@media screen and (max-width: 750px){
+
+  .discussionCommentContainer{
+    flex-direction: column;
+  }
+
+  .discussionsComments{
+    width: 95vw;
+  }
+
+  .discussionsInfo{
+    width: 95vw;
+  }
+
+  .eventsText{
+    width: 93vw;
+  }
+  .discussionsText{
+    width: 93vw;
+  }
+  span{
+    display: none;
+  }
+
+.infoContainer  {
+  width: 95vw;
+}
+}
